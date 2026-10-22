@@ -1,0 +1,11 @@
+{
+  "name": "typescript-checkpoint",
+  "version": "1.0.0",
+  "description": "TypeScript Fundamentals checkpoint",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "license": "MIT"
+}
